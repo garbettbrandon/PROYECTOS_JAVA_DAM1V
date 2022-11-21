@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;nombre&apos; in &apos;ejercicioExamen.serializarPartidos(...)&apos; to &apos;local&apos;&#x0D;&#x0A;- Original project: &apos;EXAMEN_ANT&apos;&#x0D;&#x0A;- Original element: &apos;ejercicioExamen.serializarPartidos(ArrayList&lt;Partido&gt;).nombre&apos;&#x0D;&#x0A;- Renamed element: &apos;nombre&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;nombre&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{ejercicioExamen.java[ejercicioExamen~serializarPartidos~QArrayList\&lt;QPartido;&gt;;@nombre!3567!3585!3574!3579!QString;!0!false" name="local" references="true" stamp="1652964172947" version="1.0"/>
+</session>

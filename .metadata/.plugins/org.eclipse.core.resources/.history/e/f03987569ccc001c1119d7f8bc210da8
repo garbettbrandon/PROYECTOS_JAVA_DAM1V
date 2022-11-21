@@ -1,0 +1,22 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class Ejemplo_FlujoDeBytes {
+
+	public static void main(String[] args) throws IOException {
+		try {
+			FileInputStream imagen = new FileInputStream("C:/Users/brand/Desktop/imagen.jpg");
+			
+			int linea = 0;
+			
+			while (linea != -1) {
+				imagen.read();
+			}
+			imagen.close();
+			
+		} catch (FileNotFoundException e) {
+			System.out.println("EL archivo no se ha encontrado.");
+		}
+	}
+}

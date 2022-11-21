@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="expressionHistory">
+		<item key="expressionHistoryEntry_0" value="123&#x0D;&#x0A;"/>
+		<item key="expressionHistoryEntryCount" value="6"/>
+		<item key="expressionHistoryEntry_1" value="cont == 123&#x0D;&#x0A;"/>
+		<item key="expressionHistoryEntry_2" value="63"/>
+		<item key="expressionHistoryEntry_3" value="129"/>
+		<item key="expressionHistoryEntry_4" value="123"/>
+		<item key="expressionHistoryEntry_5" value="10&#x0D;&#x0A;"/>
+	</section>
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="resultado &gt; 1000"/>
+		<item key="conditionHistoryEntryCount" value="5"/>
+		<item key="conditionHistoryEntry_1" value="i == 15&#x0D;&#x0A;"/>
+		<item key="conditionHistoryEntry_2" value="y == 25&#x0D;&#x0A;"/>
+		<item key="conditionHistoryEntry_3" value="cont == 123"/>
+		<item key="conditionHistoryEntry_4" value="cont == 14&#x0D;&#x0A;"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="614"/>
+		<item key="HEIGHT" value="194"/>
+		<item key="SashWeightTree" value="200"/>
+		<item key="SashWeightDetails" value="200"/>
+	</section>
+</section>

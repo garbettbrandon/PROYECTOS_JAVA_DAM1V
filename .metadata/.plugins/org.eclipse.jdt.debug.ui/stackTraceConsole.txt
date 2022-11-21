@@ -1,0 +1,4 @@
+System.out.println("Posicion puntero: "+ficheroReservas.getFilePointer()+" Nombre del cliente:" +ficheroReservas.readUTF());
+				System.out.println("Posicion puntero: "+ficheroReservas.getFilePointer()+" Fecha de entrada:" +ficheroReservas.readUTF());
+				System.out.println("Posicion puntero: "+ficheroReservas.getFilePointer()+" Numero de noches:" +ficheroReservas.readInt());
+				System.out.println("Posicion puntero: "+ficheroReservas.getFilePointer()+" Precio noche:" +ficheroReservas.readDouble());
